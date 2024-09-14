@@ -1,5 +1,5 @@
 # Vending Machine Project
-This is a Computer Organization and Assembly Language course-related project, where a vending machine is designed to allow users to:
+This is a project, made on DosBox using functions, stack and basic logics, where a vending machine is designed to allow users to:
 
 1. Select from food categories such as:
    - Fast food
